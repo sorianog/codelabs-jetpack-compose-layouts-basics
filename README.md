@@ -3,6 +3,13 @@
 This repo contains the source code for
 the [Basic Layouts in Compose Codelab](https://developer.android.com/codelabs/jetpack-compose-layouts)
 
+## Demo
+<img src="demo/app-screenshot.png" width="200"></img>
+<img src="demo/app-demo-video.gif" width="200"></img>
+
+<img src="demo/app-screenshot2.png" width="400"></img>
+
+
 ## Build tools & versions used
 - Macbook with an M-series chip
 - Android Studio Ladybug | 2024.2.1 Patch 2
